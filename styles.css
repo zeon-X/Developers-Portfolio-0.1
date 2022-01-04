@@ -18,6 +18,7 @@ section{
     display: flex;
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 10%;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -28,9 +29,14 @@ section{
     width: 50%;
 }
 .half-width img{
-    width: 80%;
-    padding-left: 20%;
+    width: 80%; 
     padding-top: 5%;
+}
+.first-img img{
+    padding-left: 20%;
+}
+.second-img img{
+    padding-right: 20%;
 }
 .link-btn{
     text-decoration: none;

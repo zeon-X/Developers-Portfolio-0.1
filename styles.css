@@ -12,3 +12,19 @@ h3{
 .orange{
     color: orangered;
 }
+section{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width-left{
+    width: 70%;
+}
+.link-btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,orangered,tomato);
+    
+    padding: 10px 40px 10px;
+    border-radius: 5px;
+}

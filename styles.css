@@ -4,13 +4,15 @@ body{
 }
 
 h1{
+    padding-top: 1%;
     font-size: 70px;
 }
 h3{
     font-size: 30px;
 }
-.orange{
+.span-orange{
     color: orange;
+    font-size: 80px;
 }
 section{
     display: flex;
@@ -27,12 +29,19 @@ section{
 }
 .half-width img{
     width: 80%;
+    padding-left: 20%;
+    padding-top: 5%;
 }
 .link-btn{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(orange,orangered);
+    background-image: linear-gradient(to right, orange,orangered);
     
-    padding: 10px 40px 10px;
+    
+    padding: 10px 40px;
     border-radius: 5px;
+}
+
+p{
+    padding-bottom: 3%;
 }

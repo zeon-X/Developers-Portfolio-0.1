@@ -1,6 +1,6 @@
 body{
     font-family: 'Lato', sans-serif;
-    
+    margin: 0;
 }
 
 h1{
@@ -10,20 +10,28 @@ h3{
     font-size: 30px;
 }
 .orange{
-    color: orangered;
+    color: orange;
 }
 section{
     display: flex;
     padding-left: 5%;
     padding-right: 5%;
 }
-.half-width-left{
-    width: 70%;
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
 }
 .link-btn{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(orange,orangered,tomato);
+    background-image: linear-gradient(orange,orangered);
     
     padding: 10px 40px 10px;
     border-radius: 5px;

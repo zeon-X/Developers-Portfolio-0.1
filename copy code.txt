@@ -1,0 +1,44 @@
+<section class="top-banner">
+        <div class="welcome-width">
+            <h1>Welcome To <br> <span class="span-orange">ZEON-X's</span> World!</h1>
+
+            <h3>Web Developer & Android Developer</h3>
+            <p>Nothing new 😁 just a stupid learner, loves farming, interested in AI . Will be glad to be friends 😛.
+                Also done a website this site is developed for a simple e-commerce shop
+            </p>
+
+
+
+            <a class="link-btn" target="blank" href="https://www.linkedin.com/in/md-shefat-zeon-7b22961a3/">HIRE ME</a>
+
+
+        </div>
+
+        <div class="half-width first-img">
+            <img src="images/zeon-bg2-png.png" alt="">
+        </div>
+    </section>
+
+    <section>
+        <div class="half-width second-img">
+            <img src="images/zeon-bg.png" alt="">
+        </div>
+
+
+        <div class="welcome-width">
+            <h1>Dream Big</h1>
+            <h3>Become a web developer</h3>
+            <p>I already learned the basic HTML and CSS. I can build any simple website. I can even teach my grandma how
+                to
+                make simple website. My goal is to build 3 websites and learn advanced topics.</p>
+
+            <a class="link-btn" id="color-design-snd-btn" href="https://zeon-x.github.io/D-first-Portfolio/">DOWNLOAD
+                RESUME</a>
+        </div>
+
+
+
+
+
+
+    </section>

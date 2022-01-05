@@ -74,22 +74,34 @@ section{
     margin: auto;
     padding-top: 0%;
     font-size: 400%;
+    padding-bottom: 40px;
 }
 .last-section h1{
     font-size: 50px;
 }
 .card{
-    border-style: solid;
     
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    box-shadow: 10px 0px 30px 1px rgb(134, 134, 134);
+    border-left: 7px solid;
     
-    
-    border-color: black;
 }
 .card1{
+    border-image: linear-gradient(orange,tomato) ;
+    border-image-slice: 1;
     margin-right: 2.5%;
+    
 }
 .card2{
+    border-image: linear-gradient(blue,cyan) ;
+    border-image-slice: 1;
     margin-right: 2.5%;
+    
+}
+
+footer p{
+    text-align: center;
 }
 
 

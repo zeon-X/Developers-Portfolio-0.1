@@ -11,7 +11,7 @@ h3{
 }
 p{
     padding-bottom: 3%;
-    text-transform: ;
+    text-transform:none ;
     color: dimgray;
 }
 .span-orange{
@@ -87,16 +87,19 @@ section{
     border-left: 7px solid;
     
 }
+.card h1{
+    font-size: 35px;
+}
 .card1{
     border-image: linear-gradient(orange,tomato) ;
     border-image-slice: 1;
-    margin-right: 2.5%;
+    margin-right: 3.5%;
     
 }
 .card2{
     border-image: linear-gradient(blue,cyan) ;
     border-image-slice: 1;
-    margin-right: 2.5%;
+    margin-left: 3.5%;
     
 }
 
